@@ -622,7 +622,7 @@
   (async function updateViews() {
     const output = document.getElementById("viewCount");
     const badge = output.closest(".views");
-    if (location.hostname !== "xuantoanlatoi.github.io") {
+    if (!["xuantoanlatoi.github.io", "xtoansobad.vercel.app"].includes(location.hostname)) {
       output.textContent = "—";
       badge.title = "Bộ đếm hoạt động khi trang được mở trên website.";
       return;
