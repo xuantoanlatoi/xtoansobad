@@ -1,0 +1,3 @@
+Giải nén và tải index.html cùng bio.html lên cùng một thư mục trên hosting.
+index.html là trang chào mừng; nút Vào trang mở bio.html.
+Ảnh đã được nhúng sẵn trong cả hai tệp.
