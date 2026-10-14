@@ -1,3 +1,4 @@
-Giải nén và tải index.html, bio.html, avatar.jpg, background.mp4, background.jpg lên cùng thư mục gốc của repository GitHub.
+Giải nén và tải index.html, bio.html, avatar.jpg, background.mp4, background.jpg, SFUI.ttf, music.m4a lên cùng thư mục gốc của repository GitHub.
 Video là nền trang bio, chạy lặp và không tiếng. Nhạc bài hát vẫn dùng nút phát riêng.
+File music.m4a phải nằm cùng thư mục với bio.html để nút phát nhạc hoạt động; liên kết "Nghe trên SoundCloud" vẫn giữ làm nguồn nghe phụ.
 Vercel tự triển khai khi commit trên nhánh main.
